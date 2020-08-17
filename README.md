@@ -6,7 +6,7 @@
 
 Hi, my name is Anthony and I'm a web developer. I currently do Computer Science, being now in the 4th period. I’ve been programming since I was 14 years old and I love passing my knowledge to other people.
 
-:popcorn: Content creator at [@enthony.dev](https://instagram.com/enthony.dev) and [Youtube](https://www.youtube.com/channel/UC3SvUIoI1TcKn0RRdnqhWYA)
+:popcorn: Content creator at [@enthony.dev](https://instagram.com/enthony.dev)
 
 :movie_camera: Stream at [Twitch](https://twitch.tv/enthonydev)
 
