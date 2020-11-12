@@ -2,7 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anthony%20Vinicius-8400a6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonyvinicius/)](https://www.linkedin.com/in/anthonyvinicius/)
 [![Gmail Badge](https://img.shields.io/badge/-dev.anthonyv@gmail.com-8400a6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.anthonyv@gmail.com)](mailto:dev.anthonyv@gmail.com)
 
-#### :blush: About me
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anthonyvii27&theme=midnight-purple&show_icons=true)
+
+### :blush: About me
 
 Hi, my name is Anthony and I'm a web developer. I currently do Computer Science, being now in the 4th period. I’ve been programming since I was 14 years old and I love passing my knowledge to other people.
 
@@ -10,7 +12,7 @@ Hi, my name is Anthony and I'm a web developer. I currently do Computer Science,
 
 :movie_camera: Stream at [Twitch](https://twitch.tv/enthonydev)
 
-#### :bulb: Technologies and methodologies that I work with
+### :bulb: Technologies and methodologies that I work with
 
 - React JS
 - Next JS
