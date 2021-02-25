@@ -17,8 +17,9 @@ Hi, my name is Anthony and I'm a web developer. I currently do Computer Science,
 - React JS
 - Next JS
 - Redux
-- Bootstrap
-- Sass
+- AWS Cognito
+- Bootstrap / Ant Design / Material UI
+- Sass / Less / CSS in JS
 - HTML / CSS / JavaScript
 - Axios / SWR
 - Scrum / Kanban
