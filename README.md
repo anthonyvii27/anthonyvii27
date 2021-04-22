@@ -14,7 +14,7 @@ Hi, my name is Anthony and I'm a web developer. I currently do Computer Science,
 
 ### :bulb: Technologies and methodologies that I work with
 
-- React JS
+- React JS / React Native
 - Next JS
 - Redux
 - AWS Cognito
